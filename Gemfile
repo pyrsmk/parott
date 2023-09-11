@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem "hanami-router"
+gem "falcon"
+gem "hanami-router", "~> 1.3.2"
