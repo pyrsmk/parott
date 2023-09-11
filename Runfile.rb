@@ -1,3 +1,3 @@
 task :start do
-  run "bundle exec rackup"
+  run "ruby server.rb"
 end
